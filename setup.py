@@ -22,7 +22,7 @@ setup(
         'matplotlib',
         'statsmodels',
         'requests',
-        'seaborn==0.12.2',
+        'seaborn==0.11.2',
         'opencv_python_headless',
         'pandas',
         'numpy',
